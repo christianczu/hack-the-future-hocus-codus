@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\bin\Debug\net6.0\B1.exe
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\bin\Debug\net6.0\B1.deps.json
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\bin\Debug\net6.0\B1.runtimeconfig.json
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\bin\Debug\net6.0\B1.dll
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\bin\Debug\net6.0\B1.pdb
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.AssemblyInfo.cs
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.dll
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\refint\B1.dll
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.pdb
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\B1.genruntimeconfig.cache
+C:\Users\chris\OneDrive - ODISEE\2de jaar\workfield\hackaton hack the future\HTF\B1\obj\Debug\net6.0\ref\B1.dll
