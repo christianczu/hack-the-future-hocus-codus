@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\OneDrive - ODISEE\\2de jaar\\workfield\\hackaton hack the future\\HTF\\A1\\A1.csproj": {}
+    "C:\\Users\\chris\\Desktop\\htf\\hack-the-future-hocus-codus\\HTF\\A1\\A1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\OneDrive - ODISEE\\2de jaar\\workfield\\hackaton hack the future\\HTF\\A1\\A1.csproj": {
+    "C:\\Users\\chris\\Desktop\\htf\\hack-the-future-hocus-codus\\HTF\\A1\\A1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\OneDrive - ODISEE\\2de jaar\\workfield\\hackaton hack the future\\HTF\\A1\\A1.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Desktop\\htf\\hack-the-future-hocus-codus\\HTF\\A1\\A1.csproj",
         "projectName": "A1",
-        "projectPath": "C:\\Users\\chris\\OneDrive - ODISEE\\2de jaar\\workfield\\hackaton hack the future\\HTF\\A1\\A1.csproj",
+        "projectPath": "C:\\Users\\chris\\Desktop\\htf\\hack-the-future-hocus-codus\\HTF\\A1\\A1.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\OneDrive - ODISEE\\2de jaar\\workfield\\hackaton hack the future\\HTF\\A1\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Desktop\\htf\\hack-the-future-hocus-codus\\HTF\\A1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
